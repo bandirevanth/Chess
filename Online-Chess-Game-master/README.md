@@ -3,7 +3,7 @@ Description: An online multiplayer chess game. Supports infinite players playing
 
 
 # Required:
-- Python 3.x
+- Python 3.x (x meaning a number)
 - pygame
 
 
@@ -19,16 +19,3 @@ You will also need to run server.py on some kind of server. After that you can l
 - Checkmate does not work, if you loose or win you will need to end the game by hitting "q"
 - Very rare bug where a certain move will crash the game
 - No Enpesant Pawn Rule
-
-
-# LICENSE:
-*NOT FOR COMMERCIAL USE*
-If you intened to use any of my code for commercial use please contact me and get my permission. If you intend to make money using any of my code please ask my permission.
-
-# Run in Gitpod
-
-You can also run Online Chess Game in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM19**
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Online-Chess-Game/blob/master/client.py)
